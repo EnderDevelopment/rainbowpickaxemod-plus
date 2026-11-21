@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "rainbowpickaxe",
+  "version": "1.0.0",
+  "name": "Rainbow Pickaxe Mod",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.enderdevelopment.rainbowpickaxe.RainbowPickaxeMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
